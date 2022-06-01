@@ -2,11 +2,11 @@
 
 ### Motivation:
 
-For my Capstone Project I wanted to create a product that would have real world benefit. So, I selected a fleet analysis for the company that I worked for.
-The overall goal was to create an algorithm to predict when each company truck would reach 200,000 miles, which appeared to be on the higher side of a trucks
-anticipated life expectancy. According to an iSeeCars study, 2.8% and 2.4% of Toyota Tocoma's and Ford F-150's respectively, have over 200,000 miles, when
-compared to vehicles across their segment (Blackley, 2022). These percentages represent that the mentioned trucks are twice as likely to reach 200,000 miles, 
-when compared to the other vehicles used in the analysis (Blackley, 2022). Addons to my project that I plan to complete in the future include:
+For my Capstone Project, I wanted to create a product that would have real-world benefits. So, I selected a fleet analysis for the company that I worked for.
+The overall goal was to create an algorithm to predict when each company truck would reach 200,000 miles, which appeared to be on the higher side of a truck's
+anticipated life expectancy. According to an iSeeCars study, 2.8% and 2.4% of Toyota Tacoma and Ford F-150s have over 200,000 miles 
+compared to vehicles across their segment (Blackley, 2022). These percentages represent that the mentioned trucks are twice as likely to reach 200,000 miles 
+compared to the other vehicles used in the analysis (Blackley, 2022). Addons to my project that I plan to complete in the future include:
 
 * More efficient code (ie. loops with dataframes) 
 * Addition of predictive dates for maintenance/service of vehicles to aid in scheduling and substitute truck coordination
@@ -14,10 +14,10 @@ when compared to the other vehicles used in the analysis (Blackley, 2022). Addon
 
 ### Limitations:
 
-Throughout the creation of this project, I have identified a few limitations that hinder the performance of the algorythm. The company I work for does not utilize
-a database for tracking/maintaining the mileage for each truck. All data was collected manually and inputted by myself over a three or four day period. Due to time
-constraints and the lack of database I only procured six months worth of mileage data, which limits the overall accuracy of the algorithm and its predictive abilities.
-Not to mention the possibility of human error in manually entering 1500+ data points. In addition to manually entering the data, there were a multitude of missing 
+Throughout the creation of this project, I have identified a few limitations that hinder the algorithm's performance. The company I work for does not utilize
+a database for tracking/maintaining the mileage for each truck. All data was collected manually and inputted by myself over a three or four-day period. Due to time
+constraints and the lack of a database, I only procured six months' worth of mileage data, limiting the algorithm's overall accuracy and predictive abilities.
+Not to mention the possibility of human error in manually entering 1500+ data points. In addition to manually entering the data, there were many missing 
 or not submitted mileage reports -- presenting incomplete data. I used imputation to fill in those missing data points.
 
 ### Build Status: 
