@@ -5,8 +5,8 @@
 For my Capstone Project, I wanted to create a product that would have real-world benefits. So, I selected a fleet analysis for the company that I worked for.
 The overall goal was to create an algorithm to predict when each company truck would reach 200,000 miles, which appeared to be on the higher side of a truck's
 anticipated life expectancy. According to an iSeeCars study, 2.8% and 2.4% of Toyota Tacoma and Ford F-150s have over 200,000 miles 
-compared to vehicles across their segment (Blackley, 2022). These percentages represent that the mentioned trucks are twice as likely to reach 200,000 miles 
-compared to the other vehicles used in the analysis (Blackley, 2022). Addons to my project that I plan to complete in the future include:
+compared to vehicles across their segment (WAKELIN, 2022). These percentages represent that the mentioned trucks are twice as likely to reach 200,000 miles 
+compared to the other vehicles used in the analysis (WAKELIN, 2022). Addons to my project that I plan to complete in the future include:
 
 * More efficient code (ie. loops with dataframes) 
 * Addition of predictive dates for maintenance/service of vehicles to aid in scheduling and substitute truck coordination
@@ -22,7 +22,7 @@ or not submitted mileage reports -- presenting incomplete data. I used imputatio
 
 ### Build Status: 
 
-Last Updated: 06/01/2022. 
+Last Updated: 06/05/2022. 
 As of the last update the code is incomplete. 
 
 ### Screenshots: 
@@ -34,12 +34,19 @@ As of the last update the code is incomplete.
 ### Average and Median Miles Driven By All Trucks. 
 ![Dashboard 1 (1)](https://user-images.githubusercontent.com/80931300/172066785-9e62cae8-1b9f-476d-923d-995712184b68.png)
 
+### Model Output Prediction vs Actual Graph 
+![Screenshot 2022-06-05 150424](https://user-images.githubusercontent.com/80931300/172070623-d5b6faee-1ce3-4ef7-90ca-5aacc5181735.png)
 
+
+### Model Output Error 
+![2](https://user-images.githubusercontent.com/80931300/172070627-316fe4f3-8737-4473-9c23-73e4bf74770b.png)
 
 
 ### Developer Tech:
 
 ![python](https://user-images.githubusercontent.com/80931300/171454184-234efe87-d1f6-4b16-8593-edded51f5506.png)![datascience](https://user-images.githubusercontent.com/80931300/171454403-5a9f23bb-3384-4730-b918-ff6705b42813.png)
 
+### References
+Filho, M. (2010). Mario Filho | Data Science | Machine Learning. Mario Filho | Data Science | Machine Learning. https://www.mariofilho.com/how-to-predict-multiple-time-series-with-scikit-learn-with-sales-forecasting-example/
 
-
+‌Wakelin, N. (2022, February 28). Best gas mileage trucks. Best Gas Mileage Trucks - iSeeCars.com. Retrieved June 5, 2022, from https://www.iseecars.com/articles/best-gas-mileage-trucks 
