@@ -27,6 +27,16 @@ As of the last update the code is incomplete.
 
 ### Screenshots: 
 
+### Sample view of four of the trucks from the fleet and their mileage over time. Blank values were filled with 
+### linear interpolation. 
+![Dashboard 1](https://user-images.githubusercontent.com/80931300/172066498-9fe41d5f-9be3-41d4-866f-9628f494731f.png)
+
+### Average and Median Miles Driven By All Trucks. 
+![Dashboard 1 (1)](https://user-images.githubusercontent.com/80931300/172066785-9e62cae8-1b9f-476d-923d-995712184b68.png)
+
+
+
+
 ### Developer Tech:
 
 ![python](https://user-images.githubusercontent.com/80931300/171454184-234efe87-d1f6-4b16-8593-edded51f5506.png)![datascience](https://user-images.githubusercontent.com/80931300/171454403-5a9f23bb-3384-4730-b918-ff6705b42813.png)
