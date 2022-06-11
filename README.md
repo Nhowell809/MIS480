@@ -37,6 +37,22 @@ As of the last update the code is incomplete.
 ### Model Output Prediction vs Actual Graph 
 ![Screenshot 2022-06-05 150424](https://user-images.githubusercontent.com/80931300/172070623-d5b6faee-1ce3-4ef7-90ca-5aacc5181735.png)
 
+### Forecast for Truck 187
+![newplot](https://user-images.githubusercontent.com/80931300/173206123-651f0ea5-8aae-466b-8cbc-f758ddc73cb9.png)
+
+
+### Forecast for Truck 191
+![newplot (1)](https://user-images.githubusercontent.com/80931300/173206125-e6df5b94-47e8-49f1-8f4e-5019a5905306.png)
+
+
+### Forecast for Truck 222
+![newplot (2)](https://user-images.githubusercontent.com/80931300/173206126-81226295-d9e8-4603-a125-149852c3ec3b.png)
+
+
+### Forecast for Truck 241
+![newplot (3)](https://user-images.githubusercontent.com/80931300/173206129-2f8d433b-a3e5-42d4-9d95-ec69e53e3ca6.png)
+
+
 
 ### Model Output Error 
 ![2](https://user-images.githubusercontent.com/80931300/172070627-316fe4f3-8737-4473-9c23-73e4bf74770b.png)
